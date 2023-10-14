@@ -67,8 +67,8 @@
                      </div>
                      <div class="contact-details-info">
                         <ul>
-                           <li><i class="bi bi-envelope"></i> <a href="tomail:"><span class="__cf_email__">info@androcoders.com</span></a></li>
-                           <li><i class="bi bi-telephone"></i> <a href="tel:+918299396255">+91 8299396255</a></li>
+                           <li><i class="bi bi-envelope"></i> <a href="tomail:info@albinfotech.com"><span class="__cf_email__">info@qalbinfotech.com</span></a></li>
+                           <li><i class="bi bi-telephone"></i> <a href="tel:+918004012639">+91 8004012639</a></li>
                         </ul>
                      </div>
 						</div>
@@ -78,7 +78,7 @@
                      </div>
                      <div class="contact-details-info">
                         <ul>
-                           <li><i class="bi bi-geo-alt-fill"></i> 88/545 Prem Nagar, Colonelganj, Kanpur Nagar, U.P, India</li>
+                           <li><i class="bi bi-geo-alt-fill"></i> Chaman Ganj, Kanpur Nagar, U.P, India</li>
                         </ul>
                      </div>
 						</div>
@@ -100,7 +100,7 @@
          <div class="col-lg-12">
             <div class="location-map mt-100">
                <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1647631.9534293488!2d0.4267046465731676!3d50.74847355442899!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dc24ce7a6c143b%3A0x40af13e8163cda0!2s62179%20Wissant%2C%20France!5e1!3m2!1sen!2sbd!4v1647867201053!5m2!1sen!2sbd" style="border:0;" aria-hidden="false" tabindex="0" allowfullscreen=""></iframe> -->
-			   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1785.6402494379267!2d80.304587!3d26.478912!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399c394c89505843%3A0x9c10871139e1024c!2sSoft%20touch%20boutique!5e0!3m2!1sen!2sin!4v1688969789944!5m2!1sen!2sin" style="border:0;" aria-hidden="false" tabindex="0" allowfullscreen=""></iframe>
+			   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7143.25840606606!2d80.33315785!3d26.467678749999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399c4762aa489f91%3A0x71d338565a4a2a43!2sChaman%20Ganj%2C%20Colonelganj%2C%20Kanpur%2C%20Uttar%20Pradesh%20208001!5e0!3m2!1sen!2sin!4v1697298461418!5m2!1sen!2sin" style="border:0;" aria-hidden="false" tabindex="0" allowfullscreen=""></iframe>
             </div>
          </div>
       </div>

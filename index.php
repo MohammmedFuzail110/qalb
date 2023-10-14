@@ -8,7 +8,7 @@
 		<div class="row align-items-center justify-content-between">
 			<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
 				<div class="hrrd-hero-content">
-					<h1>ANDROCODERS</h1>
+					<h1>QALB</h1>
 					<p>WE DON'T JUST WRITE SOFTWARE.<br>
 						WE ENGINEER DIGITAL SOLUTIONS.</p>
                <div class="hrrd-hero-btn-wrap">
@@ -76,7 +76,7 @@
 			</div>
 			<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 mobt-50">
 				<div class="hrrd-hero-content">
-					<h1>ANDROCODERS</h1>
+					<h1>QALB</h1>
 					<p>WE DON'T JUST WRITE SOFTWARE.<br>
 						WE ENGINEER DIGITAL SOLUTIONS.</p>
                <div class="hrrd-hero-btn-wrap">
@@ -119,8 +119,8 @@
 				</div>
 			</div>
 		</div>
-		<p>We are a skilled team of developers who can work on any type of project or technology. You can engage Androcoders for software development, web development, mobile app development, software engineering, enterprise mobility, blockchain development etc. The company has a team of experts who work with clients to solve their business problems by creating software and apps. You can contact us for the best software development services.
-			If you are passionate about working on delivery platforms for startups and SMEs, Androcoders is a perfect match for you. </p>
+		<p>We are a skilled team of developers who can work on any type of project or technology. You can engage QALB for software development, web development, mobile app development, software engineering, enterprise mobility, blockchain development etc. The company has a team of experts who work with clients to solve their business problems by creating software and apps. You can contact us for the best software development services.
+			If you are passionate about working on delivery platforms for startups and SMEs, QALB is a perfect match for you. </p>
 		<div class="row justify-content-center mt-50">
 			<div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 wow animated zoomIn" data-wow-delay="200ms" data-wow-duration="1500ms">
 				<div class="featured-box">
@@ -325,7 +325,7 @@
 
 <!-- Apps Area Start -->
 
-<div class="apps-area positioning pb-76  pt-100">
+<!-- <div class="apps-area positioning pb-76  pt-100">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -388,7 +388,7 @@
 		</div>
 	</div>
 	<img class="shape hrrd-app-shape" src="assets/images/shape/hrrd-app.png" alt="">
-</div>
+</div> -->
 
 <!-- Apps Area End -->
 
@@ -554,34 +554,5 @@
 <!-- Mobile View end -->
 
 <!-- Testimonial Area End -->
-
-
-<!-- Hrrd Subscribe Area Start -->
-
-<div class="hrrd-subscribe-area positioning pt-100 pb-100">
-	<div class="container">
-		<div class="row">
-			<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-				<div class="hrrd-subscribe-wrap">
-					<div class="row align-items-center justify-content-center">
-						<div class="col-xl-6 col-lg-8 col-md-12 col-sm-12 col-12">
-							<div class="hrdd-section-title hrrd-subscribe-title text-center wow animate fadeInDown" data-wow-delay="100ms" data-wow-duration="1500ms">
-								<h1>Start Your <span>15 Days Free</span> Trail!</h1>
-								<p>Distinctively supply accurate methods of empowerment before.</p>
-							</div>
-							<form action="#" class="wow animate flipInX" data-wow-delay="300ms" data-wow-duration="1500ms">
-								 <input type="text" placeholder="Email">
-								 <button class="common-btn btn-hrrd-1">Submit Now</button>
-							</form>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<img class="shape hrrd-subscribe-shape" src="assets/images/shape/hrrd-subscribe-left.png" alt="">
-</div>
-
-<!-- Hrrd Subscribe Area End -->
 
 <?php include('footer.php'); ?>

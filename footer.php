@@ -10,7 +10,7 @@
 						<div class="col-xl-3 col-lg-4 col-md-12 col-sm-12 col-12">
 							<div class="single-widget">
 								<div class="footer-logo">
-									<a href="index-2.php"><img src="assets/images/logo.png" alt=""></a>
+									<a href="index.php"><img src="assets/images/logo/QALB.png" alt=""></a>
 									<p>Professionally scale cross functional human capital and extensive technology.</p>
 									<div class="footer-social wow animate flipInX" data-wow-delay="200ms" data-wow-duration="1500ms">
 										<ul>
@@ -53,20 +53,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-xl-2 col-lg-6 col-md-6 col-sm-6 col-6">
-							<div class="single-widget">
-								<div class="footer-title">
-									<h3>Job Info</h3>
-								</div>
-								<div class="footer-link">
-									<ul>
-										<li><a href="#">Select</a></li>
-										<li><a href="#">Services</a></li>
-										<li><a href="#">Payment</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
+						
 						<div class="col-xl-2 col-lg-6 col-md-6 col-sm-6 col-6 p-0"> 
 							<div class="single-widget">
 								<div class="footer-title">
@@ -74,8 +61,8 @@
 								</div>
 								<div class="contact-info">
 									<ul>
-										<li>Call : <span><a href="tel:+918299396255"> +91 8299396255</a></span></li>
-										<li>Email : <span><a href="mailto:info@androcoders.com">info@androcoders.com</a></span></li>
+										<li>Call : <span><a href="tel:+918004012639"> +91 8004012639</a></span></li>
+										<li>Email : <span><a href="mailto:info@qalbinfotech.com">info@qalbinfotech.com</a></span></li>
 										<li>Address : <span>Kanpur, Uttar Pradesh, India</span></li>
 									</ul>
 								</div>
@@ -88,7 +75,7 @@
 		<div class="row">
 			<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
 				<div class="copy-right-area">
-					<p class="copy-text">Copyright©ANDROCODERS.All right reserved</p>
+					<p class="copy-text">Copyright©qalbinfotech.All right reserved</p>
 				</div>
 			</div>
 		</div>

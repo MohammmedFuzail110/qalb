@@ -4,9 +4,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-	<title>ANDROCODERS</title>
+	<title>QALB</title>
 	
-	<link rel="icon" href="assets/images/icon/logo1.png" type="image/gif" sizes="20x20">
+	<link rel="icon" href="assets/images/logo/qalb1.png" type="image/gif" sizes="20x20">
 
 	<!-- DatePicker CSS -->
 	<link rel="stylesheet" type="text/css" href="assets/css/daterangepicker.css"/>
@@ -72,7 +72,7 @@
 			<div class="row align-items-center">
 				<div class="col-xxl-3 col-xl-2 col-lg-2 col-sm-6 col-6">
 					<div class="logo text-left">
-						<a href="index.php"><img src="assets/images/logo.png" alt="" style="width: 100%; height: 60px;"></a>
+						<a href="index.php"><img src="assets/images/logo/QALB.png" alt="" style="width: 100%; height: 60px;"></a>
 					</div>
 				</div>
 				<div class="col-xxl-9 col-xl-10 col-lg-10 col-sm-6 col-6">
@@ -86,15 +86,8 @@
 							<a href="index.php"><img src="assets/images/logo.png" alt=""></a>
 						</div>
 						<ul>
-							<li class="has-child-menu">
-								<a href="javascript:void(0)" >Home</a>
-								<i class="fl flaticon-plus">+</i>
-								<ul class="sub-menu">
-									<li><a href="index-2.php">Sass</a></li>
-									<li><a href="travel-company.php">Travel</a></li>
-									<li><a href="job-finding.php">Job Finding</a></li>
-									<li><a href="digital-agency.php">Digital Agency</a></li>
-								</ul>
+							<li class="has">
+								<a href="index.php" >Home</a>
 							</li>
 							<li><a href="about.php">About</a></li>
 							<li><a href="services.php">Services</a></li>
